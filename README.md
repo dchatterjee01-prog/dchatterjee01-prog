@@ -39,7 +39,7 @@ I operate at the precise intersection of **advanced econometric theory**, **mach
 ![](https://img.shields.io/badge/Agentic_AI_Workflows-27AE60?style=flat-square) 
 ![](https://img.shields.io/badge/Deep_ML_Workflows-D35400?style=flat-square)
 
-### 🧠 Analytical Frameworks (Goldman Sachs / McKinsey Track)
+### 🧠 Analytical Frameworks 
 * **Quantitative Economics & Inference:** Econometric modeling, asset pricing dynamics, statistical inference, and predictive regressions.
 * **Risk Management & FinTech:** Capital market risk assessment protocols, algorithmic finance mechanics, and investment portfolio analysis.
 
